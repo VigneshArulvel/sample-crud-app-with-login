@@ -1,0 +1,14 @@
+#submitButton{
+    position: absolute;
+    top: 99%;
+    left: 48%;
+    width: 38%;
+}
+@media only screen and (max-width : 600px){
+    #submitButton{
+        position: absolute;
+        top: 99%;
+        left: 30%;
+        width: 80%;
+    }
+}
